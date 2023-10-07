@@ -25,7 +25,7 @@ _more so many Frame work Tool present inside_
 ```sh
   java bytecode_name
 ```
-__Your Graphic User InterFace Open until you that you not close by your terminal__
+__Your Graphic User InterFace Open until that you not close by your terminal__
 
 *PRESS { CTRL-C } Close Java GUI*
 
